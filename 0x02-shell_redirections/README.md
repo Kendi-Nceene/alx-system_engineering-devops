@@ -59,4 +59,4 @@ Filename	Description
 
 102-acrostic	Decodes acrostics that use the first letter of each line
 
-103-the_biggest_fan	Parses web servers in TSV format as input and displays the 11 hosts or IP addresses which did the most requ
+103-the_biggest_fan	Parses web servers in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
